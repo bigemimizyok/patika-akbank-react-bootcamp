@@ -1,0 +1,62 @@
+/* form */
+body {
+  margin: 2em ;
+  background: #13117c91 0% 0% no-repeat padding-box;
+  font-family: 'El Messiri', sans-serif;
+}
+
+button{
+  border-color: rgba(118, 190, 58, 0.555) !important;;
+  background-color: rgba(73, 121, 34, 0.527) !important;
+}
+
+
+.addIcon {
+  background-color: rgba(17, 46, 90, 0);
+}
+
+.addForm input {
+  margin: 0.7em 0em;
+}
+
+.addForm button {
+  margin: 1.5em 0.6em;
+  padding: 0.3em 2.4em;
+}
+
+
+ .transferUserBox {
+  padding: 1em;
+ }
+
+ .transferUserBox button {
+  margin: 0.4em 0.6em;
+  padding: 0.3em 2.4em;
+ }
+.container table {
+  background-color: rgba(184, 33, 104, 0.295);
+  margin: 1em 1em;
+  border-radius: 1em;
+}
+
+i.btnactivity {
+  opacity: 0.1 - 1;
+  color: blueviolet;
+  cursor: pointer;
+}
+
+i.btnproduct {
+  color: royalblue;
+  cursor: pointer;
+}
+
+/* send */
+.sentUser {
+  background-color: rgba(40, 175, 157, 0.253);
+ 
+}
+
+.card {
+  border-radius: 1em;
+  margin-top: 1em;
+}
